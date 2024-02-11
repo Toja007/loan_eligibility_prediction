@@ -1,5 +1,6 @@
  #                                                                 Loan Eligibility Prediction
- ![image](https://github.com/Toja007/Loan-eligibility-prediction/assets/131866743/f0e96dc3-8c77-4954-9cbf-940ca45a38b8)
+ ![How-To-Secure-That-Bank-Loan-For-Your-Business-810x423](https://github.com/Toja007/loan_eligibility_prediction/assets/131866743/b0e2f638-608a-4ec1-9271-98de9936d909)
+
 
 #Description
 This project is a web-based application built using Streamlit for predicting loan eligibility of individuals based on their personal details. It utilizes a machine learning model trained on historical data to make predictions.
@@ -21,7 +22,8 @@ streamlit run app.py
 4.	Access the app in your web browser at the provided URL.
 ________________________________________
 # Screenshots
-![image](https://github.com/Toja007/Loan-eligibility-prediction/assets/131866743/0174841e-bd50-498f-9293-2a50a11ca1bc)
+<img width="935" alt="lon" src="https://github.com/Toja007/loan_eligibility_prediction/assets/131866743/b3bd8f03-f6e1-42cc-89d4-461fd3c112f3">
+
 
  ________________________________________
 # Credits
